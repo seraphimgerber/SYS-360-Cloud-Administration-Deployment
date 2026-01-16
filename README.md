@@ -9,6 +9,21 @@
 
 # SYS-360-01: Cloud Administration & Deployment - Spring 2026
 
+## Course Description and Outcomes
+Cloud computing has become increasingly central to Information Security (IS) strategies both at the corporate and personal level. It unifies a variety of technologies to provide businesses with a method to improve business efficiency and reduce costs. This course will provide students with knowledge they need to approach security in the cloud. We will start with a brief introduction to cloud computing and then jump in to cloud data security, infrastructure, and application security, etc. This course was designed using coursework from ISC2 and the Cloud Security Alliance, two of the current leaders in this area.
+
+## Learning Objectives
+By the end of the course, students will be able to: 
+* Learn the building blocks of cloud based systems.
+* Understand the concepts, principles, structures, and standards used to design, implement, monitor, and secure operating systems.
+* Develop knowledge of the cloud infrastructure components, both physical and virtual, existing threats, and mitigating and developing plans to deal with those threats.
+* Ability to identify issues to ensure that the need for training and awareness in application security, the process involved with cloud software assurance and validation.
+* Understand the processes to identify critical information and the execution of selected measures that eliminate or reduce adversary exploitation of critical information.
+* Analyze the legal and compliance aspect of cloud computing security as it relates to ethical behavior and compliance with regulatory frameworks.
+* Develop a sound understanding of cloud security tools, attacks, and various penetration methods.
+
 ---
 
 # Modules
+
+### Module 1 - Cloud Architecture Concepts
