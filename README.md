@@ -27,3 +27,7 @@ By the end of the course, students will be able to:
 # Modules
 
 ### Module 1 - Cloud Architecture Concepts
+
+[Lab 1-1: Accessing the AWS Sandbox in Cloud Foundations Course](https://github.com/seraphimgerber/SYS-360-Cloud-Administration-Deployment/wiki/Lab-1%E2%80%901:-Accessing-the-AWS-Sandbox-in-Cloud-Foundations-Course)
+
+[Lab 1-2: AWS Learner-Lab Set-Up](https://github.com/seraphimgerber/SYS-360-Cloud-Administration-Deployment/wiki/Lab-1%E2%80%902-AWS-Learner%E2%80%90Lab-Set%E2%80%90Up)
