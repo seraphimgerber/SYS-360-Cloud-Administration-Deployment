@@ -31,3 +31,12 @@ By the end of the course, students will be able to:
 [Lab 1-1: Accessing the AWS Sandbox in Cloud Foundations Course](https://github.com/seraphimgerber/SYS-360-Cloud-Administration-Deployment/wiki/Lab-1%E2%80%901:-Accessing-the-AWS-Sandbox-in-Cloud-Foundations-Course)
 
 [Lab 1-2: AWS Learner-Lab Set-Up](https://github.com/seraphimgerber/SYS-360-Cloud-Administration-Deployment/wiki/Lab-1%E2%80%902-AWS-Learner%E2%80%90Lab-Set%E2%80%90Up)
+
+### Module 2 - Cloud Design Requirements
+
+[Lab 2-1: Getting Started with Amazon EC2](https://github.com/seraphimgerber/SYS-360-Cloud-Administration-Deployment/wiki/Lab-2%E2%80%901:-Getting-Started-with-Amazon-EC2)
+
+[Lab 2-2: EC2 Web Server](https://github.com/seraphimgerber/SYS-360-Cloud-Administration-Deployment/wiki/Lab-2%E2%80%902:-EC2-Web-Server)
+
+[Lab 2-3: IAM Console](https://github.com/seraphimgerber/SYS-360-Cloud-Administration-Deployment/wiki/Lab-2%E2%80%903:-IAM-Console)
+
