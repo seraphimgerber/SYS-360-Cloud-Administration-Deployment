@@ -40,3 +40,8 @@ By the end of the course, students will be able to:
 
 [Lab 2-3: IAM Console](https://github.com/seraphimgerber/SYS-360-Cloud-Administration-Deployment/wiki/Lab-2%E2%80%903:-IAM-Console)
 
+### Module 3 - Cloud Data Security I
+
+[Lab 3-1: AWS with CLI](https://github.com/seraphimgerber/SYS-360-Cloud-Administration-Deployment/wiki/Lab-3%E2%80%901:-AWS-with-CLI)
+
+[Lab 3-2: AWS EC2 with CLI - Lab 2](https://github.com/seraphimgerber/SYS-360-Cloud-Administration-Deployment/wiki/Lab-3%E2%80%902:-AWS-EC2-with-CLI-%E2%80%90-Lab-2)
