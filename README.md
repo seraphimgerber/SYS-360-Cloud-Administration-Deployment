@@ -45,3 +45,10 @@ By the end of the course, students will be able to:
 [Lab 3-1: AWS with CLI](https://github.com/seraphimgerber/SYS-360-Cloud-Administration-Deployment/wiki/Lab-3%E2%80%901:-AWS-with-CLI)
 
 [Lab 3-2: AWS EC2 with CLI - Lab 2](https://github.com/seraphimgerber/SYS-360-Cloud-Administration-Deployment/wiki/Lab-3%E2%80%902:-AWS-EC2-with-CLI-%E2%80%90-Lab-2)
+
+
+### Module 4 - Cloud Data Security II
+
+[Lab 4‐1: S3 Server‐side Encryption ‐ Server Provided Keys](https://github.com/seraphimgerber/SYS-360-Cloud-Administration-Deployment/wiki/Lab-4%E2%80%901:-S3-Server%E2%80%90side-Encryption-%E2%80%90-Server-Provided-Keys)
+
+[Lab 4‐2: S3 SSE ‐ Client Provided Keys](https://github.com/seraphimgerber/SYS-360-Cloud-Administration-Deployment/wiki/Lab-4%E2%80%902:-S3-SSE-%E2%80%90-Client-Provided-Keys)
