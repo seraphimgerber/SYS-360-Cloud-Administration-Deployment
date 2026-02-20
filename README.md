@@ -52,3 +52,13 @@ By the end of the course, students will be able to:
 [Lab 4‐1: S3 Server‐side Encryption ‐ Server Provided Keys](https://github.com/seraphimgerber/SYS-360-Cloud-Administration-Deployment/wiki/Lab-4%E2%80%901:-S3-Server%E2%80%90side-Encryption-%E2%80%90-Server-Provided-Keys)
 
 [Lab 4‐2: S3 SSE ‐ Client Provided Keys](https://github.com/seraphimgerber/SYS-360-Cloud-Administration-Deployment/wiki/Lab-4%E2%80%902:-S3-SSE-%E2%80%90-Client-Provided-Keys)
+
+### Module 5 - Cloud Platform and Infrastructure Security
+
+[Lab 5‐1: LAMP Stack in AWS ‐ Part 1](https://github.com/seraphimgerber/SYS-360-Cloud-Administration-Deployment/wiki/Lab-5%E2%80%901:-LAMP-Stack-in-AWS-%E2%80%90-Part-1)
+
+[Lab 5‐2: LAMP Stack in AWS Part 2](https://github.com/seraphimgerber/SYS-360-Cloud-Administration-Deployment/wiki/Lab-5%E2%80%902:-LAMP-Stack-in-AWS-Part-2)
+
+[Lab 5‐3: Setting up WordPress on LAMP](https://github.com/seraphimgerber/SYS-360-Cloud-Administration-Deployment/wiki/Lab-5%E2%80%903:-Setting-up-WordPress-on-LAMP)
+
+### Module 6 - Cloud Risks
