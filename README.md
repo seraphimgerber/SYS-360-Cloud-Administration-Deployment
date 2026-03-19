@@ -62,3 +62,11 @@ By the end of the course, students will be able to:
 [Lab 5‐3: Setting up WordPress on LAMP](https://github.com/seraphimgerber/SYS-360-Cloud-Administration-Deployment/wiki/Lab-5%E2%80%903:-Setting-up-WordPress-on-LAMP)
 
 ### Module 6 - Cloud Risks
+
+[Lab 6‐1: Build a Database Server](https://github.com/seraphimgerber/SYS-360-Cloud-Administration-Deployment/wiki/Lab-6%E2%80%901:-Build-a-Database-Server)
+
+[Lab 6‐2: Getting Started with DynamoDB](https://github.com/seraphimgerber/SYS-360-Cloud-Administration-Deployment/wiki/Lab-6%E2%80%902:-Getting-Started-with-DynamoDB)
+
+### Module 8 - Cloud Operational Security I
+
+[Lab 8-1: TLS for LAMP Stack](https://github.com/seraphimgerber/SYS-360-Cloud-Administration-Deployment/wiki/Lab-8%E2%80%901:-TLS-for-LAMP-Stack)
