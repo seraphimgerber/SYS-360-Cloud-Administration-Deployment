@@ -70,3 +70,9 @@ By the end of the course, students will be able to:
 ### Module 8 - Cloud Operational Security I
 
 [Lab 8-1: TLS for LAMP Stack](https://github.com/seraphimgerber/SYS-360-Cloud-Administration-Deployment/wiki/Lab-8%E2%80%901:-TLS-for-LAMP-Stack)
+
+### Module 9 - Cloud Operational Security
+
+[Lab 9-1: Monitoring Instances with Amazon CloudWatch](https://github.com/seraphimgerber/SYS-360-Cloud-Administration-Deployment/wiki/Lab-9%E2%80%901:-Monitoring-Instances-with-Amazon-CloudWatch)
+
+[Lab 9-2: CloudWatch Agent on Windows](https://github.com/seraphimgerber/SYS-360-Cloud-Administration-Deployment/wiki/Lab-9%E2%80%902:-CloudWatch-Agent-on-Windows)
