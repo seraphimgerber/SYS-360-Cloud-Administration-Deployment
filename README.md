@@ -76,3 +76,9 @@ By the end of the course, students will be able to:
 [Lab 9-1: Monitoring Instances with Amazon CloudWatch](https://github.com/seraphimgerber/SYS-360-Cloud-Administration-Deployment/wiki/Lab-9%E2%80%901:-Monitoring-Instances-with-Amazon-CloudWatch)
 
 [Lab 9-2: CloudWatch Agent on Windows](https://github.com/seraphimgerber/SYS-360-Cloud-Administration-Deployment/wiki/Lab-9%E2%80%902:-CloudWatch-Agent-on-Windows)
+
+### Module 10 - Virtual Private Cloud
+
+[Lab 10-1: AWS Virtual Private Cloud](https://github.com/seraphimgerber/SYS-360-Cloud-Administration-Deployment/wiki/Lab-10%E2%80%901:-AWS-Virtual-Private-Cloud)
+
+[Lab 10-2: VPC From Scratch](https://github.com/seraphimgerber/SYS-360-Cloud-Administration-Deployment/wiki/Lab-10%E2%80%902:-VPC-From-Scratch)
